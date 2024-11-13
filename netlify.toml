@@ -1,0 +1,4 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+  environment = { RESEND_API_KEY = "re_3LpNisQ2_5td4JmZTWYagvZWKMHUryU6Q" }
